@@ -1,62 +1,26 @@
-Sure! Here's a **beautified and professional version** of your README content with your live site link (`https://rmsc-coeptech.netlify.app/`) added, suitable for GitHub:
+# 🌐 RMSC Club Website — COEP Tech
+
+A fully responsive and modern website built for the **Ramanujan Mathematics & Science Club (RMSC)** at COEP Tech using React and Tailwind CSS.
+
+> ✨ Explore live: [rmsc-coeptech.netlify.app](<img width="1894" height="721" alt="Screenshot 2025-07-16 174333" src="https://github.com/user-attachments/assets/f9d78079-a7f4-4897-99e8-b56d4e7c4a45" />
+tlify.app/)
 
 ---
 
-# 🎯 Getting Started with Create React App
+## 📸 Project Preview
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-🔗 **Live Website:** [https://rmsc-coeptech.netlify.app/](https://rmsc-coeptech.netlify.app/)
-
----
-
-## 🚀 Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-* Starts the development server.
-* Open [http://localhost:3000](http://localhost:3000) to view in your browser.
-* Automatically reloads on code changes.
-* Shows lint errors in the console.
-
-### `npm test`
-
-* Launches the test runner in interactive watch mode.
-* Learn more about [running tests](https://facebook.github.io/create-react-app/docs/running-tests).
-
-### `npm run build`
-
-* Builds the app for production to the `build` folder.
-* Optimizes the app for the best performance.
-* Filenames include hashes for better caching.
-* Learn more about [deployment](https://facebook.github.io/create-react-app/docs/deployment).
-
-### `npm run eject`
-
-* Copies all config files and dependencies like Webpack, Babel, ESLint.
-* Gives full control over build configuration.
-* **Note:** This is a one-way operation. Use only if necessary.
+![Website Preview](./preview.png)  
+<!-- Replace 'preview.png' with an actual screenshot of your homepage or UI -->
 
 ---
 
-## 📚 Learn More
+## 🚀 Tech Stack
 
-* [Official React Documentation](https://reactjs.org/)
-* [Create React App Docs](https://facebook.github.io/create-react-app/docs/getting-started)
-
----
-
-## 📦 Advanced Topics
-
-* [Code Splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-* [Bundle Analysis](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-* [Making a Progressive Web App](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-* [Advanced Configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-* [Deployment Guide](https://facebook.github.io/create-react-app/docs/deployment)
-* [Troubleshooting Build Failures](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+| Frontend | Styling | Hosting |
+|----------|---------|---------|
+| ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=for-the-badge) | ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge) | ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=for-the-badge) |
 
 ---
 
+## 📂 Project Structure
 
